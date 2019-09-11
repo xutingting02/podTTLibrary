@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'podTTLibrary_Example' do
+  pod 'podTTLibrary', :path => '../'
+
+  target 'podTTLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
