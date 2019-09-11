@@ -1,0 +1,6 @@
+framework module podTTLibrary {
+  umbrella header "podTTLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

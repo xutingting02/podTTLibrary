@@ -1,0 +1,22 @@
+{
+  "name": "podTTLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of podTTLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xutingting02/podTTLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xutingting02": "xutingting02@baidu.com"
+  },
+  "source": {
+    "git": "https://github.com/xutingting02/podTTLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podTTLibrary/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - podTTLibrary (0.1.0)
+
+DEPENDENCIES:
+  - podTTLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  podTTLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podTTLibrary: 29fb9ae1058341a29946e93b1f4739bba9670fd5
+
+PODFILE CHECKSUM: c1ecceb2ccfa27550778aeba75e77d12022ea7d5
+
+COCOAPODS: 1.7.5
